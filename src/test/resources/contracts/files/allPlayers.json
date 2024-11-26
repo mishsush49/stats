@@ -1,0 +1,20 @@
+[
+  {
+    "playerId": 1,
+    "playerName": "Sushant",
+    "playerRole": "Batsman",
+    "idCountry": 91
+  },
+  {
+    "playerId": 2,
+    "playerName": "Shlok",
+    "playerRole": "Bowler",
+    "idCountry": 44
+  },
+  {
+    "playerId": 3,
+    "playerName": "Madhavi",
+    "playerRole": "Wicketkeeper",
+    "idCountry": 91
+  }
+]
